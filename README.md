@@ -47,6 +47,18 @@ Highlights top-performing regions, products, customers, and key business insight
 * Sean Miller was the highest-value customer.
 * Overall profit margin reached 12%.
 
+## Dashboard Preview
+
+![Dashboard](https://github.com/Gangothri1/PowerBI-Sales-Dashboard/blob/main/Sales_Dashboard.png?raw=true)
+
+## Product Drill Through
+
+![Drill Through](https://github.com/Gangothri1/PowerBI-Sales-Dashboard/blob/main/Product_Drillthrough%20.png)
+
+## Executive Summary
+
+![Executive Summary](https://github.com/Gangothri1/PowerBI-Sales-Dashboard/blob/main/Executive_Summary.png)
+
 ## Author
 
 Gangothri Alavalapadu
