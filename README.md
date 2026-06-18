@@ -48,7 +48,6 @@ Highlights top-performing regions, products, customers, and key business insight
 * Overall profit margin reached 12%.
 
 ## Author
-Gangothri Alavalapadu
 
 Gangothri Alavalapadu
 
